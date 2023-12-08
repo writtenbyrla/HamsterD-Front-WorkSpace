@@ -108,7 +108,7 @@ const SignUp = () => {
         address: realAddr,
         email: email,
         profile:
-          "D:\\Aaron1357\\HamsterD-Front-WorkSpace\\hamsterd-front-workspace\\public\\upload\\hamster.png",
+          "C:\\project\\HamsterD-Front-WorkSpace\\public\\upload\\hamster.png",
       };
 
       dispatch(registMember(formData2));
